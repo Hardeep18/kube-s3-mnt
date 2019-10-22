@@ -17,7 +17,7 @@
 #
 VERSION=$1
 PROJECT=kube-s3
-REPOSITORY=cp-enablement.docker.repositories.sap.ondemand.com
+REPOSITORY=dev.registry.cloudmate.co.in
 
 
 # causes the shell to exit if any subcommand or pipeline returns a non-zero status.

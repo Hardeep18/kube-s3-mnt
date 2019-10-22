@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
       - name: s3fuse
-        image: cp-enablement.docker.repositories.sap.ondemand.com/kube-s3
+        image: dev.registry.cloudmate.co.in/kube-s3
         securityContext:
           privileged: true
         # use ALL  entries in the config map as environment variables
